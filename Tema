@@ -1,0 +1,26 @@
+package com.company;
+
+import javax.swing.JOptionPane;
+
+
+public class Main {
+    //@httbz
+    public static void main(String[] args) {
+
+
+        //Input do usuário
+        String nome = JOptionPane.showInputDialog(null, "Qual o seu nome?", "Nome", JOptionPane.INFORMATION_MESSAGE);
+        float quali = Float.parseFloat(JOptionPane.showInputDialog(null, "Quanto você tirou no qualitativo?", "Qualitativo",JOptionPane.INFORMATION_MESSAGE));
+        float trab = Float.parseFloat(JOptionPane.showInputDialog(null, "Quanto você tirou nos trabalhos?", "Trabalho", JOptionPane.INFORMATION_MESSAGE));
+        float teste = Float.parseFloat(JOptionPane.showInputDialog(null, "Quanto você tirou no teste?", "Teste", JOptionPane.INFORMATION_MESSAGE));
+        float provaTri = Float.parseFloat(JOptionPane.showInputDialog(null, "Quanto você tirou na prova trimestral", "Prova Trimestral", JOptionPane.INFORMATION_MESSAGE));
+
+        //Cálculo
+        float nota = quali+trab+teste+provaTri;
+
+        //Mostrar resultado da nota final
+        JOptionPane.showMessageDialog(null, nome+" voce tirou "+nota+" nesse trimestre", "Nota Final", JOptionPane.INFORMATION_MESSAGE);
+
+
+    }
+}
