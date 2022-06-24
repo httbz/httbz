@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CURRICULUM VITAE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@600&display=swap" rel="stylesheet">
+    <style>
+        h1{
+            font-size: 36pt;
+            text-align: center;
+            font-family: 'Arimo', sans-serif;
+            color: rgb(24, 24, 24);
+            border: 1px solid black;
+            border-radius: 25px;
+        }
+        h2{
+            font-size: 26pt;
+            text-align: center;
+            font-family: 'Arimo', sans-serif;
+            color: rgb(24, 24, 24);
+        }
+        h3{
+            font-size: 14pt;
+            text-align: center;
+            font-family: 'Arimo', sans-serif;
+            color: rgb(24, 24, 24);
+        }
+        img{
+            position: relative;
+            left: 520px;
+            border-radius: 25px 25px;
+            width: 300px;
+            height: 300px;
+        }
+        p{
+            text-align: center;
+            font-family: 'Arimo', sans-serif;
+            color: rgb(24, 24, 24);
+        }
+    </style>
+</head>
+<body>
+    <h1>CURRICULUM VITAE</h1>
+    <h2>Bernardo Zandonai da Paz</h2>
+    <img src="./img/sanic.jpg" alt="300px">
+    <br>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    <br>
+    <h3>◉ENDEREÇO</h3>
+    <p>Rua Jorge Assun, 732, Bairro Paraíso</p>
+    <br>
+    <h3>◉CEP</h3>
+    <p>93220-600</p>
+    <br>
+    <h3>◉Estado</h3>
+    <p>RS - Rio Grande do Sul</p>
+    <br>
+    <h3>◉E-mail</h3>
+    <p>bernardo.zandonai@gmail.com</p>
+    <br>
+    <h3>◉Telefone</h3>
+    <p>+55 51 9910-31130</p>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    <br>
+    <h3>Grau de xiru</h3>
+    <p>◉Ensino médio - Escola Ulbra São lucas</p>
+    <p>2º ano</p>
+    <br>
+    <p>◉Técnico informática</p>
+    <p>1º sem</p>
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    <br>
+    <h3>Conhecimento Profissional</h3>
+    <p>◉Lógica de programação</p>
+    <p>◉Envio de E-mail</p>
+    <p>◉Editor de text(web)</p>
+    <p>◉Apresentação(PowerPoint)</p>
+</body>
+</html>
