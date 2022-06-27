@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @httbz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bernardo.zandonai@gmail.com
 
