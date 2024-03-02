@@ -1,34 +1,41 @@
 ## Olá, me chamo Bernardo Zandonai
 
-- 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
-- 🗣 Fluênte na lingua inglesa
-- Veja meu perfil no site do linkedin!
 
-| <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Bernardo's github stats" /></a> | <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=rose_pine&hide_border=true" /></a> |
+- 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
+- 🗣Inglês nível intermediário - Certificado de Cambridge✔
+- Veja meu perfil no linkedin!
+
+| <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="Bernardo's github stats" /></a> | <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Design
-![Alt ou título da imagem](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Alt ou título da imagem](https://aleen42.github.io/badges/src/photoshop.svg)
-![Alt ou título da imagem](https://aleen42.github.io/badges/src/illustrator.svg)
+<p float='left'>
+<img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed' width='45'>
+<img src='https://skillicons.dev/icons?i=illustrator' width='45'>
+<img src='https://skillicons.dev/icons?i=photoshop' width='45'>
+</p>
 
-#### Habilidades
-![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Alt ou título da imagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+#### Skills
+<p float='left'>
+<img src='https://skillicons.dev/icons?i=html' width='45'>
+<img src='https://skillicons.dev/icons?i=css' width='45'>
+<img src='https://skillicons.dev/icons?i=js' width='45'>
+<img src='https://skillicons.dev/icons?i=java' width='45'>
+<img src='https://skillicons.dev/icons?i=php' width='45'>
+<img src='https://skillicons.dev/icons?i=mysql' width='45'>
+<img src='https://skillicons.dev/icons?i=sqlite' width='45'>
+<img src='https://skillicons.dev/icons?i=vscode' width='45'>
+<img src='https://skillicons.dev/icons?i=wordpress' width='45'>
+</p>
 
-#### Office
-![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#### Pacote Office
+![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Word-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## Contato
 <div> 
-  <a href="https://instagram.com/bz.paz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bernardo.zandonai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-zandonai-58226b161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/bz.paz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href = "mailto:bernardo.zandonai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bernardo-zandonai-58226b161" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
