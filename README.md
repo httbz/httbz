@@ -34,6 +34,7 @@
 <img src='https://skillicons.dev/icons?i=sqlite' width='45'>
 <img src='https://skillicons.dev/icons?i=vscode' width='45'>
 <img src='https://skillicons.dev/icons?i=wordpress' width='45'>
+<img src='https://skillicons.dev/icons?i=lua' width='45'>
 </p><br>
 
 <h3 align='center'> <span style="color:green">Design</span></h3>
