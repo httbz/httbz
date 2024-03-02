@@ -3,6 +3,7 @@
 
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
 - 🗣Inglês nível intermediário - Certificado de Cambridge✔
+- Design🎨, música💿, futebol⚽, automobilismo🚗 e linguagens👅
 - Veja meu perfil no linkedin!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC52B&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
@@ -15,6 +16,7 @@
 <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed' width='45'>
 <img src='https://skillicons.dev/icons?i=illustrator' width='45'>
 <img src='https://skillicons.dev/icons?i=photoshop' width='45'>
+<img src='https://skillicons.dev/icons?i=figma' width='45'>
 </p>
 
 #### Skills
