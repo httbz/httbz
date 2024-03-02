@@ -1,12 +1,14 @@
-## Olá, me chamo Bernardo Zandonai
+<h1 align='center'> <span style="color:green">Olá, eu me chamo Bernardo!</span></h1>
 
 
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
 - 🗣Inglês nível intermediário - Certificado de Cambridge✔
 - Veja meu perfil no linkedin!
 
-| <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="Bernardo's github stats" /></a> | <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DC52B&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+<a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko&hide_border=true" alt="Bernardo's github stats" /></a>   <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=merko&hide_border=true" /></a> 
+
 
 #### Design
 <p float='left'>
@@ -28,10 +30,6 @@
 <img src='https://skillicons.dev/icons?i=wordpress' width='45'>
 </p>
 
-#### Pacote Office
-![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Word-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## Contato
 <div> 
