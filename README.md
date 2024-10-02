@@ -12,11 +12,6 @@
 - Design🎨, música💿, futebol⚽, automobilismo🚗 e linguagens👅 <br><br>
 - Veja meu perfil no linkedin! <br>
 </p>
-<div align='center'>
-  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nfc81efn6iuzhsnt40jfbd3gj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1fc122&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
 
 <div align='center'>
 <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko&hide_border=true" alt="Bernardo's github stats" /></a>   <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=merko&hide_border=true" /></a> 
