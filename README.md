@@ -7,14 +7,13 @@
 </div>
 
 <p align='center'>
-- 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas) <br><br>
+- 🖥 Estudante de Análise e Desenvolvimento de Sistemas (ULBRA) <br><br>
 - 🗣Inglês nível intermediário - Certificado de Cambridge✔ <br><br>
 - Design🎨, música💿, futebol⚽ e automobilismo🚗 <br><br>
 - Veja meu perfil no linkedin! <br>
 </p>
 
-<div align='center'>
-<a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httbz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko&hide_border=true" alt="Bernardo's github stats" /></a>   <a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=merko&hide_border=true" /></a> 
+<div align='center'><a href="https://github.com/httbz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httbz&layout=compact&theme=merko&hide_border=true" /></a> 
 </div>
 
 
@@ -28,8 +27,8 @@
 <img src='https://skillicons.dev/icons?i=mysql' width='45'>
 <img src='https://skillicons.dev/icons?i=sqlite' width='45'>
 <img src='https://skillicons.dev/icons?i=vscode' width='45'>
-<img src='https://skillicons.dev/icons?i=wordpress' width='45'>
-<img src='https://skillicons.dev/icons?i=lua' width='45'>
+<img src='https://skillicons.dev/icons?i=tailwind' width='45'>
+  <img src='https://skillicons.dev/icons?i=laravel' width='45'>
 </p><br>
 
 <h3 align='center'> <span style="color:green">Design</span></h3>
