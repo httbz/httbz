@@ -9,7 +9,7 @@
 <p align='center'>
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas) <br><br>
 - 🗣Inglês nível intermediário - Certificado de Cambridge✔ <br><br>
-- Design🎨, música💿, futebol⚽, automobilismo🚗 e linguagens👅 <br><br>
+- Design🎨, música💿, futebol⚽ e automobilismo🚗 <br><br>
 - Veja meu perfil no linkedin! <br>
 </p>
 
