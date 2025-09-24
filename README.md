@@ -7,9 +7,8 @@
 </div>
 
 <p align='center'>
-- 🖥 Estudante de Análise e Desenvolvimento de Sistemas (ULBRA) <br><br>
-- 🗣Inglês nível intermediário - Certificado de Cambridge✔ <br><br>
-- Design🎨, música💿, futebol⚽ e automobilismo🚗 <br><br>
+- Estudante de Análise e Desenvolvimento de Sistemas (ULBRA) <br><br>
+- Inglês nível Avançado - Certificado de Cambridge✔ <br><br>
 - Veja meu perfil no linkedin! <br>
 </p>
 
