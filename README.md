@@ -24,8 +24,6 @@
 <img src='https://skillicons.dev/icons?i=java' width='45'>
 <img src='https://skillicons.dev/icons?i=php' width='45'>
 <img src='https://skillicons.dev/icons?i=mysql' width='45'>
-<img src='https://skillicons.dev/icons?i=sqlite' width='45'>
-<img src='https://skillicons.dev/icons?i=vscode' width='45'>
 <img src='https://skillicons.dev/icons?i=tailwind' width='45'>
   <img src='https://skillicons.dev/icons?i=laravel' width='45'>
 </p><br>
